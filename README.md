@@ -1,7 +1,7 @@
 # User Management Application
 
 This is a **User Management Application** built using React to perform CRUD (Create, Read, Update, Delete) operations. It uses the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/) to simulate user management. The application provides a simple interface to fetch, create, update, and delete users, with responsive design and error handling.
-
+Click here for vist to [My Hosted website - ](https://user-management-5.netlify.app/)
 ## Features
 
 1. **Fetch Users**:
@@ -42,4 +42,7 @@ This is a **User Management Application** built using React to perform CRUD (Cre
 ## Installation and Setup
 
 
-  
+  1. Clone the repository:
+   ```bash
+   git clone https://github.com/nitinrandhawan/User-management.git
+   cd user-management-app
